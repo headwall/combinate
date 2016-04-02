@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457355960 source:c:\users\user\desktop\Блоки\insertionsort(simple)\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1459078618 source:e:\google drive\university\combinate\insertionsort(simple)\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<ctime>
+
+1457869769 source:c:\users\user\google Диск\university\combinate\insertionsort(simple)\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<ctime>
+
+1459582290 source:e:\google drive\university\combinate\max\lab1\insertionsort(simple)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<string.h>
+	<ctime>
+	<fstream>
+	<io.h>
+

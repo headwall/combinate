@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1457166779 source:e:\google drive\university\combinate\lab1sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<string.h>
+	<ctime>
+
+1459512722 source:e:\google drive\university\combinate\max\lab1\lab1filesgenerator\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<string.h>
+	<ctime>
+	<io.h>
+

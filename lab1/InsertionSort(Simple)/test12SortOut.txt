@@ -1,0 +1,44 @@
+../lab1TestFiles/testSort6.txt Sort began...
+../lab1TestFiles/testSort6.txt sorted.
+Result: ../lab1ResultFiles/resultSort6.txt
+
+../lab1TestFiles/testSort7.txt Sort began...
+../lab1TestFiles/testSort7.txt sorted.
+Result: ../lab1ResultFiles/resultSort7.txt
+
+../lab1TestFiles/testSort8.txt Sort began...
+../lab1TestFiles/testSort8.txt sorted.
+Result: ../lab1ResultFiles/resultSort8.txt
+
+../lab1TestFiles/testSort9.txt Sort began...
+../lab1TestFiles/testSort9.txt sorted.
+Result: ../lab1ResultFiles/resultSort9.txt
+
+../lab1TestFiles/testSort10.txt Sort began...
+../lab1TestFiles/testSort10.txt sorted.
+Result: ../lab1ResultFiles/resultSort10.txt
+
+../lab1TestFiles/testSort11.txt Sort began...
+../lab1TestFiles/testSort11.txt sorted.
+Result: ../lab1ResultFiles/resultSort11.txt
+
+../lab1TestFiles/testSort12.txt Sort began...
+../lab1TestFiles/testSort12.txt sorted.
+Result: ../lab1ResultFiles/resultSort12.txt
+
+../lab1TestFiles/testSort13.txt Sort began...
+../lab1TestFiles/testSort13.txt sorted.
+Result: ../lab1ResultFiles/resultSort13.txt
+
+../lab1TestFiles/testSort14.txt Sort began...
+../lab1TestFiles/testSort14.txt sorted.
+Result: ../lab1ResultFiles/resultSort14.txt
+
+../lab1TestFiles/testSort15.txt Sort began...
+../lab1TestFiles/testSort15.txt sorted.
+Result: ../lab1ResultFiles/resultSort15.txt
+
+../lab1TestFiles/testSort16.txt Sort began...
+../lab1TestFiles/testSort16.txt sorted.
+Result: ../lab1ResultFiles/resultSort16.txt
+
